@@ -5,8 +5,11 @@
 ![char color](https://i.imgur.com/VRKZohW.png?maxwidth=1920&fidelity=grand)
 ![char](https://i.imgur.com/i9Q982W.png?maxwidth=1920&fidelity=grand)
 
-## HOW TO RUN?
+## HOW TO RUN
 
 ### `pip install -r requirements.txt`
+### `py main.py`
 
-## Give me a star 😉⭐
+##
+
+### Give me a star 😉⭐
