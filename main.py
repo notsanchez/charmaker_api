@@ -1,4 +1,7 @@
 from rich import print as printr
+import os
+
+os.system("cls")
 
 print('  _______                __  ___     __          ')
 print(' / ___/ /  ___ _____    /  |/  /__ _/ /_____ ____')

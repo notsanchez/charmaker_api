@@ -29,7 +29,7 @@ print("9 - [bold]gridy[/]")
 print("10 - [bold]micah[/]")
 print("11 - [bold]big-ears[/]")
 
-sprite = int(input("Enter sprite type: "))
+sprite = int(input("Qual seu tipo de char?: "))
 
 if(sprite == 1):
     sprite = ("male")
