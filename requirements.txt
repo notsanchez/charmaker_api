@@ -1,0 +1,4 @@
+pyimgur==0.6.0
+reportlab==3.6.9
+rich==12.2.0
+svglib==1.2.1
